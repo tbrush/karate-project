@@ -1,0 +1,13 @@
+E:\school\advanced vb\group project\group project\bin\Debug\group project.exe.config
+E:\school\advanced vb\group project\group project\bin\Debug\karate.mdf
+E:\school\advanced vb\group project\group project\bin\Debug\karate_log.ldf
+E:\school\advanced vb\group project\group project\bin\Debug\group project.exe
+E:\school\advanced vb\group project\group project\bin\Debug\group project.pdb
+E:\school\advanced vb\group project\group project\bin\Debug\group project.xml
+E:\school\advanced vb\group project\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+E:\school\advanced vb\group project\group project\obj\Debug\group_project.Form1.resources
+E:\school\advanced vb\group project\group project\obj\Debug\group_project.Resources.resources
+E:\school\advanced vb\group project\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
+E:\school\advanced vb\group project\group project\obj\Debug\group project.exe
+E:\school\advanced vb\group project\group project\obj\Debug\group project.xml
+E:\school\advanced vb\group project\group project\obj\Debug\group project.pdb

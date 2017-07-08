@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+group project
+</name>
+</assembly>
+<members>
+<member name="T:group_project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:group_project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:group_project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.DaysDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.InstructorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.MembersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.PaymentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.ScheduleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.DaysRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.InstructorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.MembersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.PaymentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.ScheduleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.DaysRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.InstructorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.MembersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.PaymentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:group_project.karateDataSet.ScheduleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.DaysTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.InstructorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.MembersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.PaymentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.ScheduleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:group_project.karateDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(group_project.karateDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:group_project.karateDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(group_project.karateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:group_project.karateDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(group_project.karateDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:group_project.karateDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:group_project.karateDataSetTableAdapters.TableAdapterManager.UpdateAll(group_project.karateDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:group_project.karateDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
