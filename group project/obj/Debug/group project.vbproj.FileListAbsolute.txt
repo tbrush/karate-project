@@ -11,3 +11,16 @@ E:\school\advanced vb\group project\group project\obj\Debug\group project.vbproj
 E:\school\advanced vb\group project\group project\obj\Debug\group project.exe
 E:\school\advanced vb\group project\group project\obj\Debug\group project.xml
 E:\school\advanced vb\group project\group project\obj\Debug\group project.pdb
+F:\school\advanced vb\karate-project\group project\bin\Debug\group project.exe.config
+F:\school\advanced vb\karate-project\group project\obj\Debug\group project.exe
+F:\school\advanced vb\karate-project\group project\obj\Debug\group project.xml
+F:\school\advanced vb\karate-project\group project\obj\Debug\group project.pdb
+F:\school\advanced vb\karate-project\group project\bin\Debug\karate.mdf
+F:\school\advanced vb\karate-project\group project\bin\Debug\karate_log.ldf
+F:\school\advanced vb\karate-project\group project\bin\Debug\group project.exe
+F:\school\advanced vb\karate-project\group project\bin\Debug\group project.pdb
+F:\school\advanced vb\karate-project\group project\bin\Debug\group project.xml
+F:\school\advanced vb\karate-project\group project\obj\Debug\group project.vbprojResolveAssemblyReference.cache
+F:\school\advanced vb\karate-project\group project\obj\Debug\group_project.Form1.resources
+F:\school\advanced vb\karate-project\group project\obj\Debug\group_project.Resources.resources
+F:\school\advanced vb\karate-project\group project\obj\Debug\group project.vbproj.GenerateResource.Cache
